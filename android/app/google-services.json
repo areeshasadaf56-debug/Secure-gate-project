@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "306034094748",
+    "project_id": "gate-86da3",
+    "storage_bucket": "gate-86da3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306034094748:android:05d7deed94f4fe14a8f359",
+        "android_client_info": {
+          "package_name": "com.example.secure_gate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd3HumdhW0RRnIu4A1NmOX_q9zubgi7rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
